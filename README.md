@@ -1,2 +1,2 @@
 #Portfolio Website
-A portfolio website to sho my skills as developer.
+A portfolio website to show my skills as developer.
